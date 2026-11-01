@@ -1,13 +1,13 @@
-## Hi there 👋
+## ZONA X COMERCIAL APRESENTA 👋
 
 <!--
 **gilbernardodomingosdasilva-bit/gilbernardodomingosdasilva-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 **I’m currently working on:** Instalação e manutenção preventiva e corretiva de impressoras, montagem de sistemas de tinta contínua (incluindo a linha Blue King), e configuração em rede com instalação de drivers.
-- 💼 **I’m also offering services in:** Venda de toners novos originais e do Dubai, instalação de sistemas operativos e configuração de pacotes Office.
-- 🌱 **I’m currently learning:** Novas tecnologias e aprimoramento de serviços técnicos especializados.
-- 👯 **I’m looking to collaborate on:** Projetos e suporte técnico na área de manutenção de impressoras, sistemas de tinta contínua e assistência informática.
+-  **I’m currently working on:** Instalação e manutenção preventiva e corretiva de impressoras, montagem de sistemas de tinta contínua (incluindo a linha Blue King), e configuração em rede com instalação de drivers.
+-  **I’m also offering services in:** Venda de toners novos originais e do Dubai, instalação de sistemas operativos e configuração de pacotes Office.
+-  **I’m currently learning:** Novas tecnologias e aprimoramento de serviços técnicos especializados.
+-  **I’m looking to collaborate on:** Projetos e suporte técnico na área de manutenção de impressoras, sistemas de tinta contínua e assistência informática.
 
 ---
 
